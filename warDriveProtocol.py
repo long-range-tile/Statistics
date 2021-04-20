@@ -1,4 +1,4 @@
-# COUNTS
+#!/usr/bin/python3
 import json
 
 DATA_FILEPATH = '' # Enter filepath here
